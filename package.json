@@ -24,10 +24,10 @@
   "homepage": "https://github.com/learn-co-curriculum/java-script-fetch-lab#readme",
   "devDependencies": {
     "expect": "^1.20.2",
-    "fetch-mock": "^5.0.0",
+    "fetch-mock": "^12.5.2",
     "jsdom": "^9.4.1",
     "mocha": "^5.2.0",
     "mocha-multi": "^1.0.1",
-    "node-fetch": "^1.5.3"
+    "node-fetch": "^3.3.2"
   }
 }
